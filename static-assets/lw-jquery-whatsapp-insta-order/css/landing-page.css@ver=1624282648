@@ -1,0 +1,70 @@
+
+body {
+    background-image: linear-gradient(rgba(255, 255, 255,1), rgba(255, 255, 255, 0.1)), url("../../../../https@images.unsplash.com/photo-1555658094-ca794654362c@ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw_253D&ixlib=rb-1.2.1&auto=format&fit=crop&w=4350&q=80");
+}
+#storeLogo {
+    max-width: 600px;
+}
+
+.site-heading {
+    margin-top: 0;
+    margin-bottom: 0;
+    /* background-color: rgb(255 255 255 / 30%); */
+    padding: 6rem;
+    /* -webkit-backdrop-filter: blur(5px); */
+    /* backdrop-filter: blur(5px); */
+    background-color: white;
+}
+
+.site-heading-lower {
+    padding: 5rem;
+    background-color: rgb(255 255 255 / 40%);
+    border-radius: 1rem;
+}
+
+#mainNav {
+    background-color: rgb(0 0 0 / 81%);
+}
+
+#mainNav .navbar-nav .nav-item.active .nav-link {
+    color: #24d366;
+}
+
+.cta {
+    background-color: rgb(36 211 102 / 84%);
+}
+
+.footer {
+    background-color: rgb(0 0 0 / 90%);
+}
+.lw-btn-menu {
+    font-size: 2rem;
+    padding: 2rem 2.5rem;
+    cursor: pointer;
+}
+
+.site-heading .site-heading-upper {
+    text-transform: capitalize;
+}
+.section-heading {
+    word-break: break-word;
+}
+@media (max-width: 768px) {
+    .site-heading {
+        padding: 1rem;
+    }
+}
+@media (min-width: 992px) {
+    .lw-right-section .intro .intro-text {
+        left: auto;
+        right: 0;
+    }
+
+    .lw-right-section .intro .intro-img { 
+        float: left;
+    }
+}
+.intro-img {
+    max-height: 600px;
+    object-fit: cover;
+}

@@ -1,0 +1,1007 @@
+{
+  "categories": [
+    {
+      "name": "Cell Phones & Accessories",
+      "id": "cat_5dc6d5ec221e0ba1be751b742",
+      "categories": [
+        {
+          "name": "Cell Phones",
+          "id": "cat_5dc6d5ec231e0ba1be751b74",
+          "categories": [
+            {
+              "name": "Apple",
+              "id": "cat_5dc6d5ec231e6ba5be751b74",
+              "products": [
+                {
+                  "name": "Apple iPhone XR",
+                  "id": "prod_5dc6d5eccf20d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+                  "additional_shipping_charge": "62.15",
+                  "tax_percentage": "13.84",
+                  "price": "379.99",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Memory Size",
+                      "values": [
+                        {
+                          "value_name": "64GB",
+                          "value": "64GB",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "128GB",
+                          "value": "128GB",
+                          "addon_price": "34"
+                        },
+                        {
+                          "value_name": "256GB",
+                          "value": "256GB",
+                          "addon_price": "10.99"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Choice of Colors",
+                      "values": [
+                        {
+                          "value_name": "Blue",
+                          "value": "blue",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "Silver",
+                          "value": "silver",
+                          "addon_price": "10.99"
+                        },
+                        {
+                          "value_name": "Black",
+                          "value": "black",
+                          "addon_price": "6.23"
+                        },
+                        {
+                          "value_name": "Coral",
+                          "value": "coral",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "Red",
+                          "value": "red",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "Yellow",
+                          "value": "yellow",
+                          "addon_price": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Apple iPhone X",
+                  "id": "prod_5dc6d5ecdfac8e0abec4e382",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://m.media-amazon.com/images/I/61gVPTl5N3L._AC_SY741_.jpg",
+                  "tax_percentage": "20",
+                  "price": "439.56",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Memory Size",
+                      "values": [
+                        {
+                          "value_name": "64GB",
+                          "value": "64GB",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "256GB",
+                          "value": "256GB",
+                          "addon_price": "36.16"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Choice of Colors",
+                      "values": [
+                        {
+                          "value_name": "Space Gray",
+                          "value": "space-gray",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "Silver",
+                          "value": "silver",
+                          "addon_price": "10.99"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Apple iPhone 8 Plus",
+                  "id": "prod_5dc6d5ec2f7e1bfe8b53aaff",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/61K5-sw7yDL._AC_SX679_.jpg",
+                  "additional_shipping_charge": "10.64",
+                  "tax_percentage": "11.36",
+                  "price": "265.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Memory Size",
+                      "values": [
+                        {
+                          "value_name": "64GB",
+                          "value": "64GB",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "256GB",
+                          "value": "256GB",
+                          "addon_price": "48"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Choice of Colors",
+                      "values": [
+                        {
+                          "value_name": "Space Gray",
+                          "value": "space-gray",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "Silver",
+                          "value": "silver",
+                          "addon_price": "40"
+                        },
+                        {
+                          "value_name": "Gold",
+                          "value": "gold",
+                          "addon_price": "32.99"
+                        },
+                        {
+                          "value_name": "Red",
+                          "value": "red",
+                          "addon_price": "74.99"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Apple iPhone 7",
+                  "id": "prod_5da6d5ecf471e4332bf5e2c8",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://m.media-amazon.com/images/I/81PmBs6FhBL._AC_SX679_.jpg",
+                  "additional_shipping_charge": "20.28",
+                  "tax_percentage": "10.44",
+                  "price": "145.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Memory Size",
+                      "values": [
+                        {
+                          "value_name": "32GB",
+                          "value": "32GB",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "128GB",
+                          "value": "128GB",
+                          "addon_price": "20"
+                        },
+                        {
+                          "value_name": "256GB",
+                          "value": "256GB",
+                          "addon_price": "100"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Choice of Colors",
+                      "values": [
+                        {
+                          "value_name": "Black",
+                          "value": "black",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "Jet Black",
+                          "value": "jet-black",
+                          "addon_price": "12"
+                        },
+                        {
+                          "value_name": "Silver",
+                          "value": "silver",
+                          "addon_price": "6.23"
+                        },
+                        {
+                          "value_name": "Gold",
+                          "value": "gold",
+                          "addon_price": "4.99"
+                        },
+                        {
+                          "value_name": "Rose Gold",
+                          "value": "rose-gold",
+                          "addon_price": "5"
+                        },
+                        {
+                          "value_name": "Red",
+                          "value": "red",
+                          "addon_price": "11.25"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Motorola",
+              "id": "cat_5dc6d5fa231e0ba5be751b84",
+              "products": [
+                {
+                  "name": "Moto G7 Plus | 4/64GB | 16MP Camera | Black ",
+                  "id": "prod_5dc6d5ec5a29705786fc7bb2",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81N4XZjeBvL._AC_SX466_.jpg",
+                  "additional_shipping_charge": "18.74",
+                  "tax_percentage": 12,
+                  "price": "122.99",
+                  "old_price": "147.99",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Moto G8 Power | 4/64GB | 16MP Camera | Black",
+                  "id": "prod_5dc6d5ec5a29705086fc7bb0",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/815OjjbT-5L._AC_SX466_.jpg",
+                  "additional_shipping_charge": "20.31",
+                  "tax_percentage": 12,
+                  "price": "139.99",
+                  "old_price": "145.00",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Motorola Edge | 6/256GB | 64MP Camera | Solor Black",
+                  "id": "prod_5dc6d5ec5a29705786fc7ab2",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/61aWtezBYlL._AC_SX466_.jpg",
+                  "additional_shipping_charge": "80.64",
+                  "tax_percentage": 12,
+                  "price": "499.99",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Moto G Fast | 3/32GB | 16MP Camera | White",
+                  "id": "prod_5dc6d5ec4a29705786fc7bb2",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/71tvHOLiDUL._AC_SX569_.jpg",
+                  "additional_shipping_charge": "26.36",
+                  "tax_percentage": 12,
+                  "price": "139.99",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Motorola One Zoom | 4/128GB | 48MP | Purple",
+                  "id": "prod_5dc6d5ec5a29705786fc7bb8",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81Pnpk4r0yL._AC_SX679_.jpg",
+                  "additional_shipping_charge": "40.28",
+                  "tax_percentage": 12,
+                  "price": "249.99",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Motorola Moto G8 Power Lite 64GB, 4GB RAM",
+                  "id": "prod_51c6d5ec5a29705786fc7bd1",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/51yK2WHTDoL._AC_SX466_.jpg",
+                  "additional_shipping_charge": "22.97",
+                  "tax_percentage": 12,
+                  "price": "173.95",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                }
+
+              ]
+            }
+          ]
+        },
+
+        {
+          "name": "Accessories",
+          "id": "cat_5dc6d5ec3decedd0fde67a40",
+          "products": [
+            {
+              "name": "Motorola TurboPower 18 QC3.0 Charger with 3.3 Foot Micro-USB Cable",
+              "id": "prod_5dc6d5ec10c75a9257de3f6a2",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/51S-7IPydDL._AC_SX679_.jpg",
+              "additional_shipping_charge": "",
+              "tax_percentage": "18.15",
+              "price": "20.99",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": []
+            },
+            {
+              "name": "Motorola Bluetooth Mono H725 Headset with Alexa - Black",
+              "id": "prod_5dc6d5ec10c75a9287de3f6a2",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/31iapCrrutL._AC_.jpg",
+              "additional_shipping_charge": "13.2",
+              "tax_percentage": "18.15",
+              "price": "34.98",
+              "old_price": "0",
+              "details_link": null,
+              "details": "",
+              "options": []
+            },
+            {
+              "name": "Motorola VERVEBUDS 120 True Wireless Headphones - Black",
+              "id": "prod_5dc6d5ec10c75a9287de3f6c4",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/519dbnsvHJL._AC_SX466_.jpg",
+              "additional_shipping_charge": "3.2",
+              "tax_percentage": "14.79",
+              "price": "49.99",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": []
+            },
+            {
+              "name": "TOZO T6 True Wireless Earbuds Bluetooth Headphones",
+              "id": "prod_5dc6d5ee10c75a9287de3f6c4",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/71gtHnQGfQL._AC_SX466_.jpg",
+              "additional_shipping_charge": "13.2",
+              "tax_percentage": "18.15",
+              "price": "35.99",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": []
+            },
+            {
+              "name": "Sony WF-SP800N Truly Wireless Sports In-Ear Noise Canceling Headphones",
+              "id": "prod_5dc6d5ee10c75a0087de3f6c4",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/71a3O-58R4L._AC_SX466_.jpg",
+              "additional_shipping_charge": "28.21",
+              "tax_percentage": "18.15",
+              "price": "198.00",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Camera & Photo",
+      "id": "cat_5dc6d5ec221e0ba1be751b04",
+      "categories": [
+        {
+          "name": "Digital Cameras",
+          "id": "cat_5dc6d5eb231e0ba1be75250",
+          "categories": [
+            {
+              "name": "DSLR Cameras",
+              "id": "cat_5da8d5eb231e0ba1be75250",
+              "products": [
+                {
+                  "name": "Canon EOS REBEL T7 DSLR Camera",
+                  "id": "prod_5dc6d5ecaf20d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/71W1KvLH3sL._AC_SX466_.jpg",
+                  "tax_percentage": "107.64",
+                  "price": "549.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Configuration",
+                      "values": [
+                        {
+                          "value_name": "Base",
+                          "value": "base",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "Memory Card Bundle",
+                          "value": "memory-card-bundle",
+                          "addon_price": "8.99"
+                        },
+                        {
+                          "value_name": "w/ 50mm f/1.8 STM lens",
+                          "value": "stm-lens",
+                          "addon_price": "125.00"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Canon DSLR Camera [EOS 90D]",
+                  "id": "prod_5dc3d5ecaf20d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/61f9Hy-cujL._AC_SX466_.jpg",
+                  "tax_percentage": "524.86",
+                  "price": "1349.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": [
+                    {
+                      "title": "Style",
+                      "values": [
+                        {
+                          "value_name": "Canon 90D 18-55 IS STM",
+                          "value": "canon-90d-stm",
+                          "addon_price": ""
+                        },
+                        {
+                          "value_name": "Canon 90D 18-135 IS USM",
+                          "value": "canon-90d-usm",
+                          "addon_price": "250.00"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Fujifilm X-S10 Mirrorless Digital Camera XF18-55mm Lens",
+                  "id": "prod_5dced5e52f20b66af5151456",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81s3RqWwD%2BL._AC_SX466_.jpg",
+                  "tax_percentage": "16.75",
+                  "price": "1399.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Leica V-Lux 5 20MP Superzoom Digital Camera",
+                  "id": "prod_5d0ed5e52f20b66af515a456",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/71hHghtw6iL._AC_SX466_.jpg",
+                  "tax_percentage": "16.75",
+                  "price": "1395.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Canon EOS Rebel T3i Digital SLR Camera",
+                  "id": "prod_5d9ed5e52f20b66af5151416",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/71H9XbRZmlL._AC_SX466_.jpg",
+                  "tax_percentage": "16.75",
+                  "price": "699.95",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                }
+              ]
+            },
+            {
+              "name": "Instant Cameras",
+              "id": "cat_5dc6d5ec291e0ba1be75257",
+              "products": [
+                {
+                  "name": "KODAK Smile Classic Digital Instant Camera",
+                  "id": "prod_5dced5ecaf20d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81Tr7mhytPL._AC_SX466_.jpg",
+                  "tax_percentage": "20",
+                  "price": "119.99",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Kodak Step Digital Instant Camera",
+                  "id": "prod_5dced5e12f20d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81t3Bj1TElL._AC_SX466_.jpg",
+                  "tax_percentage": "14.75",
+                  "price": "69.99",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Zink Polaroid Snap Instant D",
+                  "id": "prod_5dced5e02f20d66af5150459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/61WAv8QUnuL._AC_SX466_.jpg",
+                  "tax_percentage": "14.75",
+                  "price": "69.99",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                }
+              ]
+            },
+            {
+              "name": "Mirrorless Cameras",
+              "id": "cat_5ac0d5ec291e0ba1be75257",
+              "products": [
+                {
+                  "name": "Sony Alpha a6400 Mirrorless Camera",
+                  "id": "prod_54ced5eca420d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81XeVWWyUUL._AC_SX466_.jpg",
+                  "tax_percentage": "20",
+                  "price": "998.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Fujifilm X-T4 Mirrorless Digital Camera",
+                  "id": "prod_5d4ed5e12f20d46af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81QcxqwxlWL._AC_SX466_.jpg",
+                  "tax_percentage": "14.75",
+                  "price": "2099.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Panasonic LUMIX G85 4K Digital Camera",
+                  "id": "prod_5dced5002f20d66af5150459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81TUnaSLzoL._AC_SX466_.jpg",
+                  "tax_percentage": "14.75",
+                  "price": "697.99",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Canon Full Frame Mirrorless Camera",
+                  "id": "prod_5dced5002e20d56af5150459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81LHdyZj27L._AC_SX466_.jpg",
+                  "tax_percentage": "14.75",
+                  "price": "1799.99",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lenses",
+          "id": "cat_5dc6dd9c291e0ba1be7a257",
+          "categories": [
+            {
+              "name": "Camcorder Lenses",
+              "id": "cat_5da4d5eb231e0ba1be75250",
+              "products": [
+                {
+                  "name": "Canon RF 15-35mm F2.8 L IS USM",
+                  "id": "prod_5dced5e52f20d66af5151459",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/61hBLV6OEKL._AC_SX466_.jpg",
+                  "tax_percentage": "16.75",
+                  "price": "2299.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Sony SEL85F18 85mm F/1.8-22 Medium",
+                  "id": "prod_5dced5e52f20d66af5151458",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/810Ri-gB5xL._AC_SX466_.jpg",
+                  "tax_percentage": "16.75",
+                  "price": "548.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Panasonic LUMIX G Lens, 25mm, F1.7 ASPH",
+                  "id": "prod_6dced5e52f20d66af5151458",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/71Y6iYShgIL._AC_SX466_.jpg",
+                  "tax_percentage": "16.75",
+                  "price": "147.99",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                }
+              ]
+            },
+            {
+              "name": "Camera Lenses",
+              "id": "cat_5da4d5eb231e0ba1be75252",
+              "products": [
+                {
+                  "name": "Canon EF 75-300mm f/4-5.6 III Telephoto Zoom Lens",
+                  "id": "prod_5dced5e52f20d66af5151451",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/71ioO3WHJTL._AC_SY679_.jpg",
+                  "tax_percentage": "16.75",
+                  "price": "199.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Sony SEL85F18 85mm F/1.8-22 Medium",
+                  "id": "prod_5dced5e52f20d66af5151452",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/810Ri-gB5xL._AC_SX466_.jpg",
+                  "tax_percentage": "16.75",
+                  "price": "548.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Canon RF 85mm F2 Macro is STM, Compact Medium-Telephoto Black Lens (4234C002)",
+                  "id": "prod_5dced5e52f20d66af5151453",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/71bXWUgUErL._AC_SX466_.jpg",
+                  "tax_percentage": "16.75",
+                  "price": "599.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                }
+              ]
+            }
+
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computers & Tablets",
+      "id": "cat_5dc6d5ec221e0ba1be751b44",
+      "categories": [
+        {
+          "name": "Laptops",
+          "id": "cat_5dc6d5ec231e0ba1be75256",
+          "categories": [
+            {
+              "name": "2 in 1 Laptops",
+              "id": "cat_5dc6d5ec281e0ba1be75256",
+              "products": [
+                {
+                  "name": "Lenovo Flex5 14 Inch 2-in-1 Laptop",
+                  "id": "prod_5dc6d5ec10c75a9257de3f6a3",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81AbJXWCxXL._AC_SX679_.jpg",
+                  "additional_shipping_charge": "128.59",
+                  "tax_percentage": "18.15",
+                  "price": "725.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "HP Chromebook x360 14-inch HD Touchscreen Laptop",
+                  "id": "prod_5dc6d5ac02c75a9257de3f6a3",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/8173Or14LpL._AC_SX466_.jpg",
+                  "additional_shipping_charge": "10.59",
+                  "tax_percentage": "18.15",
+                  "price": "338.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "Esse id sunt aliquip laborum ullamco est tempor est occaecat. Commodo incididunt aliqua sint consectetur aute. Nisi nisi voluptate cillum sint ex nisi. Ut duis elit laboris veniam non nostrud exercitation magna cillum consectetur officia enim.\n\nConsequat anim voluptate ex qui duis est ipsum amet occaecat. Et elit nostrud ea enim tempor commodo. <img src=\"https://images-na.ssl-images-amazon.com/images/I/8173Or14LpL._AC_SX466_.jpg\">Veniam ullamco eu in sint proident eu velit quis incididunt. Magna qui laborum reprehenderit ad do id et ipsum culpa elit laboris id. Cupidatat officia laboris dolor amet in eiusmod aute exercitation voluptate adipisicing.\n\nProident nostrud in ex in Lorem occaecat exercitation sunt consectetur voluptate laboris incididunt qui laboris. Irure laborum sint labore laboris incididunt fugiat laborum excepteur occaecat ipsum exercitation incididunt. \n\nConsequat enim Lorem do in qui velit pariatur enim occaecat deserunt non ea ullamco. Labore magna laborum excepteur culpa. Incididunt enim commodo nostrud proident laboris esse ut do occaecat officia non nostrud voluptate. Excepteur esse ipsum quis duis occaecat occaecat occaecat deserunt laboris enim. Cillum adipisicing aute nulla exercitation eu Lorem deserunt ipsum. Fugiat deserunt aute ea quis anim elit magna.",
+                  "options": []
+                },
+                {
+                  "name": "Dell Inspiron 14 5406 2in1, 14-inch FHD Touch Laptop",
+                  "id": "prod_5dc6d5ac02c75a9057de3f6a9",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81lfR4FnRhL._AC_SX679_.jpg",
+                  "additional_shipping_charge": "165.77",
+                  "tax_percentage": "14.85",
+                  "price": "868.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "Commodo incididunt aliqua sint consectetur aute. Nisi nisi voluptate cillum sint ex nisi. Ut duis elit laboris veniam non nostrud exercitation magna cillum consectetur officia enim.\n\nConsequat anim voluptate ex qui duis est ipsum amet occaecat. Et elit nostrud ea enim tempor commodo. <img src=\"https://images-na.ssl-images-amazon.com/images/I/81lfR4FnRhL._AC_SX679_.jpg\">Veniam ullamco eu in sint proident eu velit quis incididunt. Magna qui laborum reprehenderit ad do id et ipsum culpa elit laboris id. Cupidatat officia laboris dolor amet in eiusmod aute exercitation voluptate adipisicing.\n\nProident nostrud in ex in Lorem occaecat exercitation sunt consectetur voluptate laboris incididunt qui laboris. Irure laborum sint labore laboris incididunt fugiat laborum excepteur occaecat ipsum exercitation incididunt. \n\nConsequat enim Lorem do in qui velit pariatur enim occaecat deserunt non ea ullamco. Labore magna laborum excepteur culpa. Incididunt enim commodo nostrud proident laboris esse ut do occaecat officia non nostrud voluptate. Excepteur esse ipsum quis duis occaecat occaecat occaecat deserunt laboris enim. Cillum adipisicing aute nulla exercitation eu Lorem deserunt ipsum. Fugiat deserunt aute ea quis anim elit magna.",
+                  "options": []
+                },
+                {
+                  "name": "ASUS VivoBook Flip 14 Thin and Light 2-in-1 Laptop",
+                  "id": "prod_5dc6d5ac12c75a9257de3f6a3",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/711-tnp94sL._AC_SX679_.jpg",
+                  "additional_shipping_charge": "59.26",
+                  "tax_percentage": "16.15",
+                  "price": "345.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "2020 Lenovo Yoga C740 2-in-1 Touchscreen Laptop PC",
+                  "id": "prod_5db1d5ec10c75a9267de3f6a0",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/618FCkgaWmL._AC_SX679_.jpg",
+                  "additional_shipping_charge": "111.50",
+                  "tax_percentage": "20.25",
+                  "price": "642.00",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Lenovo Flex 14 2-in-1 Convertible Laptop",
+                  "id": "prod_5dc165ec10c75a9267de3f6a0",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81OzyRLdsEL._AC_SX679_.jpg",
+                  "additional_shipping_charge": "",
+                  "tax_percentage": "20.25",
+                  "price": "567.46",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                }
+              ]
+            },
+            {
+              "name": "Traditional Laptops",
+              "id": "cat_1dc6d5ec281e0ba1be75256",
+              "products": [
+                {
+                  "name": "Dell Chromebook 11 3000 3100 11.6 Inch Chromebook",
+                  "id": "prod_5dc6d5dc2f6e0bfe8b53aaff",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images.unsplash.com/photo-1541580620-23a640b30338?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=644&q=80",
+                  "additional_shipping_charge": "51.46",
+                  "tax_percentage": "11.36",
+                  "price": "282.89",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "HP Chromebook 14-inch HD Laptop",
+                  "id": "prod_8dc6d5dc2f6e0bfe8b53aaff",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/91XR%2B02AJBL._AC_SX679_.jpg",
+                  "additional_shipping_charge": "69.46",
+                  "tax_percentage": "11.36",
+                  "price": "304.80",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "Ad magna dolore nulla sit eu ex pariatur mollit ullamco. Minim adipisicing sit ad est eu ullamco dolor fugiat veniam cillum. Laboris deserunt ad aliqua ut Lorem.\n\nOfficia veniam duis eiusmod minim ipsum occaecat id duis. Commodo commodo qui non occaecat excepteur veniam sunt esse minim. Lorem pariatur nulla ipsum voluptate elit enim consectetur ullamco veniam cillum voluptate mollit consequat nulla.<img src=\"https://images-na.ssl-images-amazon.com/images/I/91XR%2B02AJBL._AC_SX679_.jpg\">Laborum culpa nostrud non incididunt laboris aliquip commodo consequat sunt in.  Eiusmod laboris ea incididunt adipisicing nisi aute pariatur pariatur sunt exercitation do Lorem. In culpa sunt enim ut ullamco labore adipisicing excepteur consequat eiusmod voluptate veniam veniam amet.\n\nSunt voluptate ad aute ad dolor labore veniam. Reprehenderit sit exercitation anim amet qui cupidatat aliqua cupidatat irure laborum eu. Fugiat sint dolor culpa laborum.\n\nDeserunt cillum exercitation cupidatat laboris ex pariatur consectetur eiusmod dolore enim excepteur anim. Officia cillum sunt irure reprehenderit aute enim. Cupidatat velit consequat eiusmod velit incididunt qui magna. Excepteur qui ea reprehenderit culpa eu exercitation enim. Minim occaecat consequat esse duis commodo pariatur tempor qui deserunt commodo nostrud exercitation.",
+                  "options": []
+                },
+                {
+                  "name": "Apple MacBook Air - Gold ",
+                  "id": "prod_4dc6d5dc2f6e0bfe8b53aaff",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/71thf1SYnGL._AC_SX522_.jpg",
+                  "additional_shipping_charge": "",
+                  "tax_percentage": "11.36",
+                  "price": "909.65",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                },
+                {
+                  "name": "Apple MacBook Pro MLH12LL/A 13-inch Laptop with Touch Bar",
+                  "id": "prod_45c6d5dc2f6e0bfe8b53aaff",
+                  "active": true,
+                  "out_of_stock": false,
+                  "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/61SRQUe%2BLhL._AC_SX679_.jpg",
+                  "additional_shipping_charge": "19.46",
+                  "tax_percentage": "11.36",
+                  "price": "869.65",
+                  "old_price": "",
+                  "details_link": null,
+                  "details": "",
+                  "options": []
+                }
+              ]
+            }
+
+          ]
+
+        },
+        {
+          "name": "Tablets",
+          "id": "cat_5dc6d5hc231e0ba1be75256",
+          "products": [
+            {
+              "name": "Apple iPad Air 2 9.7-Inch, 32GB (Space Gray)",
+              "id": "prod_5dc6d5ec10c75a9267de3f6a3",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/61oVLSb3M2L._AC_SY879_.jpg",
+              "additional_shipping_charge": "37.58",
+              "tax_percentage": "20.25",
+              "price": "240.65",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": []
+            },
+            {
+              "name": "Apple iPad (10.2-Inch, Wi-Fi, 32GB, Space Gray)",
+              "id": "prod_5fc6d5ec2f6e1bfe8b53aaff",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/61mXrcMU6LL._AC_SY879_.jpg",
+              "additional_shipping_charge": "66.46",
+              "tax_percentage": "11.36",
+              "price": "399.99",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": []
+            },
+            {
+              "name": "Lenovo Smart Tab M10 Plus, FHD 10.3 Inch Android Tablet",
+              "id": "prod_5dc6d5ec10c75a9257de3f6a6",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81T2hqIGyJL._AC_SX679_.jpg",
+              "additional_shipping_charge": "39.45",
+              "tax_percentage": "22",
+              "price": "229.99",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": []
+            },
+            {
+              "name": "Lenovo Yoga Smart Tab, 10.1 Inch FHD Android Tablet",
+              "id": "prod_5dc1d5ec10c75a9267de3f6a0",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/51b83xHaSfL._AC_SX679_.jpg",
+              "additional_shipping_charge": "36.35",
+              "tax_percentage": "20.25",
+              "price": "229.00",
+              "old_price": "0",
+              "details_link": null,
+              "details": "",
+              "options": []
+            },
+            {
+              "name": "Samsung Galaxy Tab S7 Wi-Fi, Mystic Black - 128 GB",
+              "id": "prod_5dc1d5ec17c75a9267de3f6a0",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/71rw%2BF2aLHL._AC_SY879_.jpg",
+              "additional_shipping_charge": "104.99",
+              "tax_percentage": "20.25",
+              "price": "599.99",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": []
+            },
+            {
+              "name": "Android Tablet 10 inch,PRITOM M10",
+              "id": "prod_5dc1d5e1a7c75a9267de3f6a0",
+              "active": true,
+              "out_of_stock": false,
+              "thumbnail_path": "https://images-na.ssl-images-amazon.com/images/I/81n39GLqyML._AC_SX679_.jpg",
+              "additional_shipping_charge": "17.19",
+              "tax_percentage": "20.25",
+              "price": "97.95",
+              "old_price": "",
+              "details_link": null,
+              "details": "",
+              "options": []
+            }
+          ]
+        }
+
+      ]
+    }
+  ]
+}
+

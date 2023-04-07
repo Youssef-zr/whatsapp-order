@@ -1,0 +1,2746 @@
+{
+  "categories": [
+    {
+      "name": "سلطات - salades",
+      "id": "category_salades",
+      "products": [
+        {
+          "name": "Salades Nicoise",
+          "id": "prod_sl_nicoise",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/salades/Salades-Nicoise.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Salades Mixicaine",
+          "id": "prod_sl_mixicaine",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/salades/Salades-Mixicaine.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Salades César",
+          "id": "prod_sl_cesar",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/salades/Salades-César.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Salades Chef",
+          "id": "prod_sl_chef",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/salades/Salades-Chef.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Salades Pêcheur",
+          "id": "prod_sl_pêcheur",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/salades/Salades-Pêcheur.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "40",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Entrée Chaude",
+      "id": "category_entre_chaude",
+      "products": [
+        {
+          "name": "Soupe De Poisson",
+          "id": "prod_ec_poison",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/soupes/Soupe-De-Poisson.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pil Pil",
+          "id": "prod_ec_pil_pil",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/soupes/Pil-Pil.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "40",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Gratin Fruit De Mer",
+          "id": "prod_ec_fruit_mer",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/soupes/Gratin-Fruit-De-Mer.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "40",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "أطباق - Plats",
+      "id": "category_plats",
+      "products": [
+        {
+          "name": "Plat Brochette Poulet",
+          "id": "prod_pl_brochette_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/plats/Plat-Brochette-Poulet.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "40",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Plat Brochette Viande Hachée",
+          "id": "prod_pl_viande_hachée",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/plats/Plat-Brochette-Viande-Hachée.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "40",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Plat Cordon blue",
+          "id": "prod_pl_cordon_blue",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/plats/Plat-Cordon-blue.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "40",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Plat Brochette Mixte",
+          "id": "prod_pl_brochette_mixte",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/plats/Plat-Brochette-Mixte.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "45",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Plat Escalope De Poulet",
+          "id": "prod_pl_escalope_de_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/plats/Plat-Escalope-De-Poulet.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "45",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Plat Entrecôte grillé",
+          "id": "prod_pl_entrecôte_grille",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/plats/Plat-Entrecôte-grillé.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "60",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Plat Filet De Boeuf",
+          "id": "prod_pl_filet_de_boeuf",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/plats/Plat-Filet-De-Boeuf.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "60",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Plat émincé De Poulet",
+          "id": "prod_pl_émincé_de_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/plats/Plat-émincé-De-Poulet.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "60",
+          "old_price": "",
+          "details_link": null,
+          "details": "Crème fraîche , Champignon",
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "معكرونة - Pâtes",
+      "id": "category_Pates",
+      "products": [
+        {
+          "name": "Pâtes Thon",
+          "id": "prod_pt_thon",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pates/Pâtes-Thon.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pâtes Carbonara",
+          "id": "prod_pt_carbonara",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pates/Pâtes-Carbonara.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pâtes Bolonaise",
+          "id": "prod_pt_bolonaise",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pates/Pâtes-Bolonaise.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pâtes Poulet",
+          "id": "prod_pt_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pates/Pâtes-Poulet.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pâtes Fruit de mer",
+          "id": "prod_pt_fruit_mer",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pates/Pâtes-Fruit-de-mer.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "45",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "طاكوس - Tacos",
+      "id": "category_tacos",
+      "products": [
+        {
+          "name": "Tacos Viande Hachée",
+          "id": "prod_tc_vh",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/tacos/tacos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "28",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "حجم الطاكوس",
+              "values": [
+                {
+                  "value_name": "Large",
+                  "value": "Large",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "XLarge",
+                  "value": "XLarge",
+                  "addon_price": "20"
+                }
+              ]
+            },
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tacos Poulet",
+          "id": "prod_tc_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/tacos/tacos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "حجم الطاكوس",
+              "values": [
+                {
+                  "value_name": "Large",
+                  "value": "Large",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "XLarge",
+                  "value": "XLarge",
+                  "addon_price": "20"
+                }
+              ]
+            },
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tacos Cordon Blue",
+          "id": "prod_tc_cordon_blue",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/tacos/tacos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "27",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "حجم الطاكوس",
+              "values": [
+                {
+                  "value_name": "Large",
+                  "value": "Large",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "XLarge",
+                  "value": "XLarge",
+                  "addon_price": "20"
+                }
+              ]
+            },
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tacos Nuggets",
+          "id": "prod_tc_nuggets",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/tacos/tacos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "27",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "حجم الطاكوس",
+              "values": [
+                {
+                  "value_name": "Large",
+                  "value": "Large",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "XLarge",
+                  "value": "XLarge",
+                  "addon_price": "20"
+                }
+              ]
+            },
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tacos Mixte",
+          "id": "prod_tc_Mixte",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/tacos/tacos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "حجم الطاكوس",
+              "values": [
+                {
+                  "value_name": "Large",
+                  "value": "Large",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "XLarge",
+                  "value": "XLarge",
+                  "addon_price": "20"
+                }
+              ]
+            },
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tacos Délicia",
+          "id": "prod_tc_delicia",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/tacos/tacos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "28",
+          "old_price": "",
+          "details_link": null,
+          "details": "Nuggets + Poulet",
+          "options": [
+            {
+              "title": "حجم الطاكوس",
+              "values": [
+                {
+                  "value_name": "Large",
+                  "value": "Large",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "XLarge",
+                  "value": "XLarge",
+                  "addon_price": "20"
+                }
+              ]
+            },
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tacos Extra",
+          "id": "prod_tc_extra",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/tacos/tacos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "28",
+          "old_price": "",
+          "details_link": null,
+          "details": "Nuggets + Viande Hachéé",
+          "options": [
+            {
+              "title": "حجم الطاكوس",
+              "values": [
+                {
+                  "value_name": "Large",
+                  "value": "Large",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "XLarge",
+                  "value": "XLarge",
+                  "addon_price": "24"
+                }
+              ]
+            },
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tacos Tex Mex",
+          "id": "prod_tc_tex_mex",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/tacos/tacos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "28",
+          "old_price": "",
+          "details_link": null,
+          "details": "Viande Hachée + Charcuterie",
+          "options": [
+            {
+              "title": "حجم الطاكوس",
+              "values": [
+                {
+                  "value_name": "Large",
+                  "value": "Large",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "XLarge",
+                  "value": "XLarge",
+                  "addon_price": "24"
+                }
+              ]
+            },
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tacos Porqueno",
+          "id": "prod_tc_porqueno",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/tacos/tacos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "حجم الطاكوس",
+              "values": [
+                {
+                  "value_name": "Large",
+                  "value": "Large",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "XLarge + مشروب",
+                  "value": "XLarge + مشروب",
+                  "addon_price": "20"
+                }
+              ]
+            },
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "بانيني - Panini",
+      "id": "category_panini",
+      "products": [
+        {
+          "name": "Panini Fromage",
+          "id": "prod_pn_fromage",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/panini/Panini-Fromage.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "20",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Panini Viande Hachée",
+          "id": "prod_pn_viande_hachée",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/panini/Panini-Viande-Hachée.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Panini Thon",
+          "id": "prod_pn_thon",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/panini/Panini-Thon.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "23",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Panini Hot Dog",
+          "id": "prod_pn_hot_dog",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/panini/Panini-Hot-Dog.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "23",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Panini Poulet",
+          "id": "prod_pn_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/panini/Panini-Poulet.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "23",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Panini Mixte",
+          "id": "prod_pn_mixte",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/panini/Panini-Mixte.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "27",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Panini Fruits De Mer",
+          "id": "prod_pn_fruit_de_mer",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/panini/Panini-Fruits-De-Mer.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "27",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pasticcios",
+      "id": "category_pasticcios",
+      "products": [
+        {
+          "name": "Pasticcios Thon",
+          "id": "prod_ps_thon",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pasticcios/PASTICCIO-POULET.webp",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "28",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pasticcios Viande Hachée",
+          "id": "prod_ps_vh",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pasticcios/PASTICCIO-POULET.webp",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "33",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pasticcios Poulet",
+          "id": "prod_ps_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pasticcios/PASTICCIO-POULET.webp",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pasticcios Hot Dog",
+          "id": "prod_ps_hd",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pasticcios/PASTICCIO-POULET.webp",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pasticcios Hot Dog",
+          "id": "prod_ps_hot_dog",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pasticcios/PASTICCIO-POULET.webp",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pasticcios Charcuterie",
+          "id": "prod_ps_charcuterie",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pasticcios/PASTICCIO-POULET.webp",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "33",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pasticcios Cordon blue",
+          "id": "prod_ps_cordon_blue",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pasticcios/PASTICCIO-POULET.webp",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pasticcios Nuggets",
+          "id": "prod_ps_nuggets",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pasticcios/PASTICCIO-POULET.webp",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pasticcios Mixte",
+          "id": "prod_ps_mixte",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pasticcios/PASTICCIO-POULET.webp",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "37",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Pasticcios Fruite de mar",
+          "id": "prod_ps_fruits_de_mer",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pasticcios/PASTICCIO-POULET.webp",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "38",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "سندويش - Sandwichs",
+      "id": "category_sandwich",
+      "products": [
+        {
+          "name": "Sandwich Thon",
+          "id": "prod_sn_thon",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/sandwichs/Sandwich.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "20",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tacos Viande Hachée",
+          "id": "prod_sn_vh",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/sandwichs/Sandwich.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sandwich Poulet",
+          "id": "prod_sn_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/sandwichs/Sandwich.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "23",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tacos Nuggets",
+          "id": "prod_sn_nuggets",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/sandwichs/Sandwich.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sandwich Mixte",
+          "id": "prod_sn_mixte",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/sandwichs/Sandwich.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tacos Crevette",
+          "id": "prod_sn_crevette",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/sandwichs/Sandwich.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "id": "category_burger",
+      "products": [
+        {
+          "name": "Hmburger Simple",
+          "id": "prod_br_sample",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/burgers/Hmburger-Simple.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "20",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cheese Burger",
+          "id": "prod_br_cb",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/burgers/Cheese-Burger.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Egg Burger",
+          "id": "prod_br_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/burgers/Egg-Burger.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Egg Cheese Burger",
+          "id": "prod_br_egg_cheese",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/burgers/Egg-Cheese-Burger.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Burger King",
+          "id": "prod_bg_king",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/burgers/Burger-King.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicken Burger",
+          "id": "prod_br_chicken",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/burgers/Chicken-Burger.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Double Chicken Burger",
+          "id": "prod_br_double_chicken",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/burgers/Double-Chicken-Burger.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bagitos",
+      "id": "category_bagitos",
+      "products": [
+        {
+          "name": "Bagitos Viande Hachée",
+          "id": "prod_bg_viande_hachée",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/bagitos/bagitos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "33",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Bagitos Poulet",
+          "id": "prod_bg_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/bagitos/bagitos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Bagitos Dinde Fumée",
+          "id": "prod_bg_dinde_fumée",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/bagitos/bagitos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Bagitos Nuggets",
+          "id": "prod_bg_nuggets",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/bagitos/bagitos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "32",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Bagitos Cordon blue",
+          "id": "prod_bg_cordon_blue",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/bagitos/bagitos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "32",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Bagitos Mixte",
+          "id": "prod_bg_mixte",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/bagitos/bagitos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Bagitos Fruit De Mer",
+          "id": "prod_bg_fruit_mer",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/bagitos/bagitos.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "38",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Pizzas",
+      "id": "category_pizzas",
+      "products": [
+        {
+          "name": "Pizza Margaritta",
+          "id": "prod_pz_margaritta",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Margaritta.webp",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "20",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "10"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Végétarienne",
+          "id": "prod_pz_végétarienne",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Végétarienne.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "12"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Champignon",
+          "id": "prod_pz_champignon",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Champignon.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, champignon, poivron, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "12"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Thon",
+          "id": "prod_pz_thon",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Thon.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, thon, poivron, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "12"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Hot Dog",
+          "id": "prod_pz_hot_dog",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Hot-Dog.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, hot dog, poivron, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "12"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Strasbourg",
+          "id": "prod_pz_strasbourg",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Strasbourg.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, strasbourg, poivron, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "12"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Poulet",
+          "id": "prod_pz_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Poulet.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "28",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, chawarma, poivron, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "10"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Charcuterie",
+          "id": "prod_pz_charcuterie",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Charcuterie.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "28",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, strasbourg, poivron, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "10"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Pepperoni",
+          "id": "prod_pz_pepperoni",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Pepperoni.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "28",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, pepperoni, poivron, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "10"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Boucher",
+          "id": "prod_pz_boucher",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Boucher.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, viande bachée, poivron, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "10"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Mixte",
+          "id": "prod_pz_mixte",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Mixte.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "33",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, poulet, viande hachée, poivron, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "12"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Capri",
+          "id": "prod_pz_capri",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Capri.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "33",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, viande hachée, champignon, poivron, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "12"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Quatre Fromages",
+          "id": "prod_pz_quatre_fromage",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Quatre-Fromages.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, viande hachée, champignon, poivron, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "10"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Quatre Saisons",
+          "id": "prod_pz_quatre_saisons",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Quatre-Saisons.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, viande hachée, poulet, thon, fruit de mer, champignon, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "12"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Fruits De Mer",
+          "id": "prod_pz_fruits_mer",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Fruits-De-Mer.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "sauce, mozzarella, crevette, calamar, champignon, olive",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "12"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pizza Andalous",
+          "id": "prod_pz_andalous",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Pizza-Andalous.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "35",
+          "old_price": "",
+          "details_link": null,
+          "details": "Garniture au choix",
+          "options": [
+            {
+              "title": "Duo",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "Duo",
+                  "addon_price": "12"
+                },
+                {
+                  "value_name": "لا",
+                  "value": "لا",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Galzone",
+          "id": "prod_pz_galzone",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Galzone.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "43",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Porqueno",
+          "id": "prod_pz_porqueno",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/pizza/Porqueno.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "50",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "Pizzas Tacos",
+      "id": "category_pizzas_tacos",
+      "products": [
+        {
+          "name": "Poulet",
+          "id": "prod_bz_tc_poulet",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Viande Hachée",
+          "id": "prod_bz_tc_viande_hachée",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "32",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cordon Blue",
+          "id": "prod_bz_tc_cordon_blue",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "33",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nuggets",
+          "id": "prod_bz_tc_nuggets",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "33",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mixte",
+          "id": "prod_bz_tc_mixte",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "37",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Délicia",
+          "id": "prod_bz_tc_délicia",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "38",
+          "old_price": "",
+          "details_link": null,
+          "details": "Nuggets + Poulet",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Extra",
+          "id": "prod_bz_tc_extra",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "38",
+          "old_price": "",
+          "details_link": null,
+          "details": "Nuggets + Viande Hachéé",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tex Mex",
+          "id": "prod_bz_tc_tex_mex",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "38",
+          "old_price": "",
+          "details_link": null,
+          "details": "Viande Hachée + Charcuterie",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "لا",
+                  "value": "بدون بطاطس",
+                  "addon_price": ""
+                },
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Porqueno",
+          "id": "prod_bz_tc_porqueno",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "45",
+          "old_price": "",
+          "details_link": null,
+          "details": "Viande Hachée + Charcuterie",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            },
+            {
+              "title": "مشروب",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "بدون بطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "مشروبات - Jus",
+      "id": "category_jus",
+      "products": [
+        {
+          "name": "Jus Orange",
+          "id": "prod_jus_orange",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Orange.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "10",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Pomme",
+          "id": "prod_jus_pomme",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Pomme.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "13",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Banane",
+          "id": "prod_jus_banane",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Banane.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "13",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Fraise",
+          "id": "prod_jus_fraise",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Fraise.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "15",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Pêche",
+          "id": "prod_jus_pêche",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Pêche.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "15",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Papay",
+          "id": "prod_jus_papay",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Papay.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "15",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Avocat",
+          "id": "prod_jus_avocat",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Avocat.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "18",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Mangue",
+          "id": "prod_jus_mangue",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Mangue.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "18",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Mojito",
+          "id": "prod_jus_mojito",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Mojito.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "18",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Panaché",
+          "id": "prod_jus_panaché",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Panaché.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "20",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Kiwi",
+          "id": "prod_jus_kiwi",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Kiwi.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "18",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Ananas",
+          "id": "prod_jus_ananas",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Ananas.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "18",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Panaché Fruit Sec",
+          "id": "prod_jus_panache_fruit_sec",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Panaché-Fruit-Sec.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "23",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Avocat Fruit Sec",
+          "id": "prod_jus_avocat_fruit_sec",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Avocat-Fruit-Sec.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "23",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Jus Porqueno",
+          "id": "prod_jus_porqueno",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Jus-Porqueno.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "25",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Soda",
+          "id": "prod_jus_soda",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/jus/Soda.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "6",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "حلويات - Desserts",
+      "id": "category_desserts",
+      "products": [
+        {
+          "name": "Tiramisu",
+          "id": "prod_desserts_tiramisu",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/desserts/Tiramisu.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "15",
+          "old_price": "Oreo - Kitkat - Lotus",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "Panna Cotta",
+          "id": "prod_desserts_panna_cotta",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "../img/desserts/Panna-Cotta.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "15",
+          "old_price": "Oreo - Kitkat - Lotus",
+          "details_link": null,
+          "details": "",
+          "options": []
+        }
+      ]
+    },
+    {
+      "name": "قائمة الأطفال - Menu Enfant",
+      "id": "category_enfant",
+      "products": [
+        {
+          "name": "Burger",
+          "id": "prod_enfant_menu_1",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "Burger, Frits | Boisson: Mini soda ou jus d'orange",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            },
+            {
+              "title": "مشروبات",
+              "values": [
+                {
+                  "value_name": "عصير البرتقال",
+                  "value": "عصير البرتقال",
+                  "addon_price": "0"
+                },
+                {
+                  "value_name": "مشروب غازي",
+                  "value": "مشروب غازي",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mini Tacos",
+          "id": "prod_enfant_menu_2",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "Mini Tacos: poulet ou viande hachée | Boisson: Mini soda ou jus d'orange",
+          "options": [
+            {
+              "title": "نوع tacos",
+              "values": [
+                {
+                  "value_name": "poulet",
+                  "value": "poulet",
+                  "addon_price": "0"
+                },
+                {
+                  "value_name": "viande hachée",
+                  "value": "viande hachée",
+                  "addon_price": "0"
+                }
+              ]
+            },
+            {
+              "title": "مشروبات",
+              "values": [
+                {
+                  "value_name": "عصير البرتقال",
+                  "value": "عصير البرتقال",
+                  "addon_price": "0"
+                },
+                {
+                  "value_name": "مشروب غازي",
+                  "value": "مشروب غازي",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mini Pizza",
+          "id": "prod_enfant_menu_3",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "Mini pizza: thon ou margarita | Boisson: Mini soda ou jus d'orange",
+          "options": [
+            {
+              "title": "نوع pizza",
+              "values": [
+                {
+                  "value_name": "Thon",
+                  "value": "Thon",
+                  "addon_price": "0"
+                },
+                {
+                  "value_name": "Margarita",
+                  "value": "Margarita",
+                  "addon_price": "0"
+                }
+              ]
+            },
+            {
+              "title": "مشروبات",
+              "values": [
+                {
+                  "value_name": "عصير البرتقال",
+                  "value": "عصير البرتقال",
+                  "addon_price": "0"
+                },
+                {
+                  "value_name": "مشروب غازي",
+                  "value": "مشروب غازي",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nuggets",
+          "id": "prod_enfant_menu_4",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://m.media-amazon.com/images/I/41ndBTiQIyL._AC_.jpg",
+          "additional_shipping_charge": "0",
+          "tax_percentage": "0",
+          "price": "30",
+          "old_price": "",
+          "details_link": null,
+          "details": "quatre Pieces nuggets | petit salade | Frite | Boisson: mini soda ou jus d'orange",
+          "options": [
+            {
+              "title": "مع البطاطس",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "مع البطاطس",
+                  "addon_price": "0"
+                }
+              ]
+            },
+            {
+              "title": "salade",
+              "values": [
+                {
+                  "value_name": "نعم",
+                  "value": "salade",
+                  "addon_price": "0"
+                }
+              ]
+            },
+            {
+              "title": "مشروبات",
+              "values": [
+                {
+                  "value_name": "عصير البرتقال",
+                  "value": "عصير البرتقال",
+                  "addon_price": "0"
+                },
+                {
+                  "value_name": "مشروب غازي",
+                  "value": "مشروب غازي",
+                  "addon_price": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
