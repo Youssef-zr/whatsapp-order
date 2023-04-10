@@ -7,4 +7,10 @@ $(() => {
         },1000)
     });
 
+    
+    // hide spinner
+    setTimeout(() => {
+        $('.loader').fadeOut("800");
+        $('body').css('overflow',"visible")
+    }, 800);
 })
