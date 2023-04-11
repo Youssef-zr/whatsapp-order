@@ -593,6 +593,18 @@ th.center-align {
   .product-item {
     width: 100% !important;
   }
+
+  .section-about .description .about-company-description p {
+    font-size: 17px;
+  }
+
+  .section-about .description {
+    padding: 49px 25px 3px;
+  }
+
+  .section-about .about-team-image img {
+    height: 250px;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 1220px) {
