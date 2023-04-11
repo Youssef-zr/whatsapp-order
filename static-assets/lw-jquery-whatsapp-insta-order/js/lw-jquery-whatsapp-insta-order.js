@@ -415,7 +415,7 @@
             ? (b(".lw-result-loaded-text").html("عرض " + t + " من أصل " + t),
               b(".lw-load-more-content").hide())
             : (b(".lw-result-loaded-text").html(
-                "Showing " + m.currentPaginate + " out of " + t
+                "عرض " + m.currentPaginate + " من أصل " + t
               ),
               b(".lw-load-more-content").show());
           var r = 0,
