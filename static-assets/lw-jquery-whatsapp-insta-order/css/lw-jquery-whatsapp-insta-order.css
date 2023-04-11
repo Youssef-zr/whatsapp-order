@@ -587,15 +587,11 @@ th.center-align {
     min-width: 90%;
   }
   .product-item-thumb-image {
-    height: 170px;
+    height: 200px;
   }
 
   .product-item {
-    width: 45% !important;
-    /* width: 43% !important;
-    right:50.5019% !important;
-    border-color: red !important;
-    float: right !important; */
+    width: 100% !important;
   }
 }
 
