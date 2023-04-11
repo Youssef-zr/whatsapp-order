@@ -2695,7 +2695,7 @@
           "id": "prod_enfant_menu_4",
           "active": true,
           "out_of_stock": false,
-          "thumbnail_path": "../img/enfant/tacos.jpg",
+          "thumbnail_path": "../img/enfant/nuggets.jpg",
           "additional_shipping_charge": "0",
           "tax_percentage": "0",
           "price": "30",

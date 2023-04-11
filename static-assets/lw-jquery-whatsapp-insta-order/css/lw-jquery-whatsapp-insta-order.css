@@ -17,7 +17,7 @@
   flex-direction: column;
 }
 
-.loader .text-witing{
+.loader .text-witing {
   margin-top: 22px;
   font-size: 20px;
   font-weight: 500;
@@ -116,7 +116,7 @@ body {
 }
 
 .img-full {
-  max-width: 100%;
+  width: 100%;
   height: auto;
 }
 
@@ -292,7 +292,7 @@ body {
   background: linear-gradient(272deg, #000000 13.87%, rgba(0, 0, 0, 0) 85.54%);
 }
 
-.section-menu-category .menu-category .image img{
+.section-menu-category .menu-category .image img {
   width: 100%;
 }
 
