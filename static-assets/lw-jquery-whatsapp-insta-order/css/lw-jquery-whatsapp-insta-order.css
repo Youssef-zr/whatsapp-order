@@ -586,10 +586,16 @@ th.center-align {
     margin-left: 5%;
     min-width: 90%;
   }
+  .product-item-thumb-image {
+    height: 170px;
+  }
 
   .product-item {
-    width: 30%;
-    float: right;
+    width: 45% !important;
+    /* width: 43% !important;
+    right:50.5019% !important;
+    border-color: red !important;
+    float: right !important; */
   }
 }
 
@@ -926,7 +932,7 @@ img.lw-loader {
 
 @media (min-width: 401px) {
   .lw-gutter-sizer {
-    width: 0%;
+    width: 10px;
   }
 }
 
