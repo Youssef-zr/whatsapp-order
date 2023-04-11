@@ -328,6 +328,9 @@ body {
     font-size: 30px !important;
     margin-bottom: 5px !important;
   }
+  .section-header{
+    margin-bottom: 0;
+  }
 }
 @media screen and (min-width: 560px) and (max-width: 768px) {
   .section-menu-category .menu-category .category {
