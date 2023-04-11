@@ -819,7 +819,7 @@
               .addClass("hidden"),
               (m.enableOrderBtn = !1);
             t =
-              "https://wa.me/send?phone=" +
+              "https://wa.me/" +
               c.checkoutMethods.orderByWhatsApp.mobileNumber +
               "&text=";
             return (
