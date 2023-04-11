@@ -292,6 +292,10 @@ body {
   background: linear-gradient(272deg, #000000 13.87%, rgba(0, 0, 0, 0) 85.54%);
 }
 
+.section-menu-category .menu-category .image img{
+  width: 100%;
+}
+
 .section-menu-category .menu-category .category {
   position: absolute;
   top: 60px;
