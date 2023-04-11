@@ -326,7 +326,7 @@ body {
 
   .section-menu-category .menu-category .category-name {
     font-size: 30px !important;
-    margin-bottom: 8px !important;
+    margin-bottom: 5px !important;
   }
 }
 @media screen and (min-width: 560px) and (max-width: 768px) {
