@@ -320,13 +320,13 @@ body {
 
 @media screen and (max-width: 560px) {
   .section-menu-category .menu-category .category {
-    top: 20px;
+    top: 15px;
     right: 40px;
   }
 
   .section-menu-category .menu-category .category-name {
     font-size: 30px !important;
-    margin-bottom: 13px !important;
+    margin-bottom: 8px !important;
   }
 }
 @media screen and (min-width: 560px) and (max-width: 768px) {
@@ -605,6 +605,7 @@ th.center-align {
   .section-about .about-team-image img {
     height: 250px;
   }
+
 }
 
 @media (min-width: 768px) and (max-width: 1220px) {
