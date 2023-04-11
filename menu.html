@@ -646,17 +646,17 @@
     <!-- WhatsApp order template -->
     <script class="whatsapp-order-template" type="text/template">
         ```
-        طلب جديد @ <%- _oData.configOptions.storeName %>
+        Nouveau Demande @ <%- _oData.configOptions.storeName %>
         **************************
-        رقم الطلب# : <%- _oData.orderId %>
-        نوع الطلب  : <%- _oData.selectedOrderType %><%- _oData.formDetails.table_number ? ("\nTable#       :" +_oData.formDetails.table_number) : null %>
+        Numéro de demande # : <%- _oData.orderId %>
+        Type de demande  : <%- _oData.selectedOrderType %><%- _oData.formDetails.table_number ? ("\nTable#       :" +_oData.formDetails.table_number) : null %>
         -------------------
-        معلومات الزبون
+        Les information du client
         --------------------
-        <%- _oData.formDetails.fname ? ("الاسم: " + _oData.formDetails.fname) : null %>
-        <%- _oData.formDetails.message ? ("\n\n--------------------\معلومات اضافية:\n" +_oData.formDetails.message) : null %>
+        <%- _oData.formDetails.fname ? ("Nom: " + _oData.formDetails.fname) : null %>
+        <%- _oData.formDetails.message ? ("\n\n--------------------\Informations Complémentaires:\n" +_oData.formDetails.message) : null %>
         --------------------
-        معلومات الطلب
+        les information du demande
         --------------------
         <% if( _oData.cartProductsCollection.length > 0 ) {
         var countIndex = 0;
@@ -670,19 +670,19 @@
          <%- listItemOption.optionTitle %> - <%- listItemOption.name %> (+ <%- listOptionValueDetails.addonPriceFormatted %>)
          <% } else if(listItemOption.name) %> <%- listItemOption.optionTitle %> - <%- listItemOption.name %> <% }); } %>
         --------------------
-        الثمن: <%- _oData.fnMisc.formatAmount(listItemProduct.price + totalAddonPrice) %> <% if(listItemProduct.additionalShippingCharge) { var itemShippingCharges = listItemProduct.calculateShipping();  itemTotal += itemShippingCharges; %>
-        التوصيل: <%- _oData.fnMisc.formatAmount(itemShippingCharges) %><% } %> <% if(listItemProduct.taxPercentage || _oData.configOptions.taxPercentage) { var itemTax = listItemProduct.calculateTax(totalAddonPrice);  itemTotal += itemTax; %>
+        Prix: <%- _oData.fnMisc.formatAmount(listItemProduct.price + totalAddonPrice) %> <% if(listItemProduct.additionalShippingCharge) { var itemShippingCharges = listItemProduct.calculateShipping();  itemTotal += itemShippingCharges; %>
+        Livraison: <%- _oData.fnMisc.formatAmount(itemShippingCharges) %><% } %> <% if(listItemProduct.taxPercentage || _oData.configOptions.taxPercentage) { var itemTax = listItemProduct.calculateTax(totalAddonPrice);  itemTotal += itemTax; %>
         Tax : <%- _oData.fnMisc.formatAmount(itemTax) %> <% } %>
-        الكمية: <%- listItem.qty %>
+        Quantité: <%- listItem.qty %>
         <% }); } %>
-        <%- _oData.cartStats.totalItems %> مجموع الوجبات هو:  <%- _oData.fnMisc.formatAmount(_oData.cartStats.subTotal) %><% var fullTotal = _oData.cartStats.subTotal; if( fullTotal && _oData.cartStats.totalShippingCharges ) { fullTotal += _oData.cartStats.totalShippingCharges; %>
-        مجموع التوصيل  : <%- _oData.fnMisc.formatAmount( _oData.cartStats.totalShippingCharges ) %> <% } %> <% if( _oData.cartStats.totalTaxes ) { fullTotal += _oData.cartStats.totalTaxes; %>
+        <%- _oData.cartStats.totalItems %> Le total des repas est:  <%- _oData.fnMisc.formatAmount(_oData.cartStats.subTotal) %><% var fullTotal = _oData.cartStats.subTotal; if( fullTotal && _oData.cartStats.totalShippingCharges ) { fullTotal += _oData.cartStats.totalShippingCharges; %>
+        Total de Livraison  : <%- _oData.fnMisc.formatAmount( _oData.cartStats.totalShippingCharges ) %> <% } %> <% if( _oData.cartStats.totalTaxes ) { fullTotal += _oData.cartStats.totalTaxes; %>
         TAX       : <%- _oData.fnMisc.formatAmount( _oData.cartStats.totalTaxes ) %> <% } %>
         --------------------
-        الواجب أدائه: 
+        Prix a payer: 
         <%- _oData.fnMisc.fullFormatAmount(fullTotal) %>
         ```
-        * المرجوا ارفاق موقعك لارسال الطلبية.*
+        * Veuillez joindre votre localisation pour envoyer la commande.*
         </script>
     <!-- /Shopping Cart. -->
     <!-- Placed at the end of the document so the pages load faster -->
@@ -707,7 +707,7 @@
             // whatever to force fresh data or not
             forceFresh: false,
             // your store name
-            storeName: "kenitra order",
+            storeName: "Porqueno",
             // logo image path
             logoImage: "",
             // set currency symbol
